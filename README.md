@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ssh,windows,react,c++,pycharm,github,vscode,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,windows,react,c,git,pycharm,github,vscode,js,html,css" />
 
 </div>
 <!-- не работает GitHub stats
