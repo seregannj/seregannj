@@ -4,7 +4,7 @@
 
 ### Developing Developer • AI learning
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Development+%7C+Python+%7C+Build+for+everyone" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+Development+%7C+Python+%7C+Build+for+everyone" />
 
 <p>
   <a href="./README_RU.md">
