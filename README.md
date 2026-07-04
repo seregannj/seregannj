@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hi, I'm Serega. Wsp?
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,ssh,windows,react,c++,pycharm,github,vscode,js,html,css" />
 
 </div>
 <!-- не работает GitHub stats
@@ -44,25 +44,6 @@
 <img src="https://streak-stats.demolab.com?user=seregannj&theme=github-dark-blue&hide_border=true" />
 
 </div>
-
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seregannj&theme=github-compact&hide_border=true" />
-
-</div>
-
----
-
-# Current Goals
-
-- Improve backend development skills
-- Learn APIs and automation
-- Build useful projects
-- Contribute to open source
 
 ---
 
