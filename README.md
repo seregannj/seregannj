@@ -23,8 +23,7 @@
 <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,js,html,css" />
 
 </div>
-
----
+<!-- не работает GitHub stats
 
 # GitHub Stats
 
@@ -35,7 +34,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seregannj&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
-
+-->
 ---
 
 # Streak Stats
