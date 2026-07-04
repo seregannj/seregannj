@@ -1,10 +1,10 @@
 <div align="left">
 
-# Hi, I'm Serega. Wsp?
+# Hi, I'm Serega
 
-### Developing Developer • AI learning
+### Developer • AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+Development+%7C+Python+%7C+Build+for+everyone" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+Python+%7C+React+%7C+AI;Building+useful+projects;Open+Source+Learner" />
 
 <p>
   <a href="./README_RU.md">
@@ -20,21 +20,22 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,windows,react,c,git,pycharm,github,vscode,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,react,c,git,github,vscode,js,html,css" />
 
 </div>
-<!-- не работает GitHub stats
+
+---
 
 # GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seregannj&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seregannj&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seregannj&layout=compact&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seregannj&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
--->
+
 ---
 
 # Streak Stats
