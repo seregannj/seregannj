@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+%7C+React+%7C+AI;Building+useful+projects;Open+Source+Learner;Always+learning+something+new" />
 
-<br><br>
+<br>
 
 <p align="center">
 
