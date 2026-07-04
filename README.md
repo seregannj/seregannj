@@ -1,14 +1,14 @@
 <div align="center">
 
-# Sergey
+# Hi, I'm Serega. Wsp?
 
-### Beginner Developer • Open Source Learner • Linux Enthusiast
+### Developing Developer • AI learning
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Backend+Development;Python+%7C+Linux+%7C+GitHub;Building+projects+every+day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Development+%7C+Python+%7C+Build+for+everyone" />
 
 <p>
   <a href="./README_RU.md">
-    <img src="https://img.shields.io/badge/Русская_версия-1f6feb?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/RU-1f6feb?style=for-the-badge">
   </a>
 </p>
 
