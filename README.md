@@ -24,7 +24,7 @@
 
 # About Me
 
-<div align="center">
+<div align="left">
 
 Passionate about modern technologies, AI and building useful projects.
 
