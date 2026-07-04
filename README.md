@@ -26,32 +26,13 @@
 
 <div align="center">
 
-### Developer focused on learning modern technologies and building useful projects
+Passionate about modern technologies, AI and building useful projects.
+
+I enjoy learning new tools, experimenting with ideas and gradually improving my backend and frontend development skills.
+
+Currently learning Python, React, GitHub and working with APIs.
 
 </div>
-
-<br>
-
-```yaml
-name: Serega
-
-focus:
-  - Backend Development
-  - Artificial Intelligence
-  - Open Source
-
-currently_learning:
-  - Python
-  - React
-  - APIs
-  - Git & GitHub
-
-interests:
-  - Linux
-  - Automation
-  - Clean UI
-  - Modern Technologies
-```
 
 ---
 
