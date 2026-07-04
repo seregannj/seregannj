@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sergey 👋
+# Sergey
 
 ### Beginner Developer • Open Source Learner • Linux Enthusiast
 
@@ -16,7 +16,7 @@
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 ---
 
-# 🔥 Streak Stats
+# Streak Stats
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 ---
 
-# 🎯 Current Goals
+# Current Goals
 
 - Improve backend development skills
 - Learn APIs and automation
@@ -67,7 +67,7 @@
 
 ---
 
-# 📫 Contacts
+# Contacts
 
 <div align="center">
 
@@ -75,18 +75,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
+<a href="https://t.me/seregannj">
+  <img src="https://img.shields.io/badge/Telegram-1f6feb?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
 </div>
-<!--
-**seregannj/seregannj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
